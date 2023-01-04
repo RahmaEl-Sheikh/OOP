@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1672688512 source:c:\users\iti\desktop\oop\lab2-2\main.cpp
+	<iostream>
+	"stackHeader.h"
+
+1672688681 c:\users\iti\desktop\oop\lab2-2\stackheader.h
+	<iostream>
+
